@@ -1,0 +1,1 @@
+"A new <resource_type> has been created with Id <resource_ID> on <configurationItemCaptureTime> in the account <awsAccountId> in the region <awsRegion>."
