@@ -1,0 +1,7 @@
+{
+    "awsRegion": "$.detail.configurationItem.awsRegion",
+    "awsAccountId": "$.detail.configurationItem.awsAccountId",
+    "resource_type": "$.detail.configurationItem.resourceType",
+    "resource_ID": "$.detail.configurationItem.resourceId",
+    "configurationItemCaptureTime": "$.detail.configurationItem.configurationItemCaptureTime"
+  }
